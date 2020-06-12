@@ -39,45 +39,5 @@
     "city": "Moscow",
     "zip": 690,
     "country": "Norway"
-  },
-  {
-    "_id": "5ee2fad12cc00dc2741e1f29",
-    "street": "Euclid Avenue",
-    "number": 968,
-    "city": "Wauhillau",
-    "zip": 7118,
-    "country": "Guam"
-  },
-  {
-    "_id": "5ee2fad111c3e5ca5c3e879b",
-    "street": "Lexington Avenue",
-    "number": 698,
-    "city": "Vincent",
-    "zip": 6206,
-    "country": "Mexico"
-  },
-  {
-    "_id": "5ee2fad1e81614c93ef7712e",
-    "street": "Poplar Avenue",
-    "number": 693,
-    "city": "Geyserville",
-    "zip": 639,
-    "country": "Nicaragua"
-  },
-  {
-    "_id": "5ee2fad12a14f7859f66c6e3",
-    "street": "Lorraine Street",
-    "number": 953,
-    "city": "Camptown",
-    "zip": 4890,
-    "country": "Fiji"
-  },
-  {
-    "_id": "5ee2fad1245ca10f89a834e6",
-    "street": "Lefferts Avenue",
-    "number": 484,
-    "city": "Ruckersville",
-    "zip": 4068,
-    "country": "Grenada"
   }
 ]}
