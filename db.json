@@ -15,29 +15,5 @@
     "city": "Detroit",
     "zip": 1691,
     "country": "Bermuda"
-  },
-  {
-    "_id": "5ee2fad10bcf05de721c7af7",
-    "street": "Neptune Court",
-    "number": 582,
-    "city": "Nipinnawasee",
-    "zip": 116,
-    "country": "Taiwan"
-  },
-  {
-    "_id": "5ee2fad1407a3b19bbf50629",
-    "street": "Conselyea Street",
-    "number": 431,
-    "city": "Stevens",
-    "zip": 2514,
-    "country": "France, Metropolitan"
-  },
-  {
-    "_id": "5ee2fad16acba3b460f6a605",
-    "street": "Otsego Street",
-    "number": 928,
-    "city": "Moscow",
-    "zip": 690,
-    "country": "Norway"
   }
 ]}
